@@ -1,0 +1,43 @@
+2023-12-09 12:38:38.100 +05:00 [INF] Now listening on: https://localhost:7166
+2023-12-09 12:38:38.287 +05:00 [INF] Now listening on: http://localhost:5217
+2023-12-09 12:38:38.312 +05:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-12-09 12:38:38.315 +05:00 [INF] Hosting environment: Development
+2023-12-09 12:38:38.318 +05:00 [INF] Content root path: E:\tutorialsfusion.com\src\WebApiConsoleFileSeqLog\WebApiConsoleFileSeqLog\
+2023-12-09 12:38:39.508 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7166/swagger - -
+2023-12-09 12:38:39.817 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7166/swagger - - - 301 0 - 320.0989ms
+2023-12-09 12:38:39.817 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7166/swagger/index.html - -
+2023-12-09 12:38:40.763 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7166/swagger/swagger-ui-bundle.js - -
+2023-12-09 12:38:40.764 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7166/swagger/swagger-ui-standalone-preset.js - -
+2023-12-09 12:38:40.765 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7166/swagger/swagger-ui.css - -
+2023-12-09 12:38:40.778 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7166/swagger/index.html - - - 200 - text/html;charset=utf-8 961.0845ms
+2023-12-09 12:38:40.884 +05:00 [INF] Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2023-12-09 12:38:40.884 +05:00 [INF] Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2023-12-09 12:38:40.886 +05:00 [INF] Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2023-12-09 12:38:40.890 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7166/swagger/swagger-ui-standalone-preset.js - - - 200 312163 application/javascript 126.8067ms
+2023-12-09 12:38:40.896 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7166/swagger/swagger-ui-bundle.js - - - 200 1061536 application/javascript 132.7660ms
+2023-12-09 12:38:40.888 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7166/swagger/swagger-ui.css - - - 200 144929 text/css 123.1584ms
+2023-12-09 12:38:40.904 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7166/_framework/aspnetcore-browser-refresh.js - -
+2023-12-09 12:38:40.921 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7166/_framework/aspnetcore-browser-refresh.js - - - 200 12378 application/javascript;+charset=utf-8 17.0293ms
+2023-12-09 12:38:40.935 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7166/_vs/browserLink - -
+2023-12-09 12:38:41.005 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7166/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 69.9553ms
+2023-12-09 12:38:41.407 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7166/swagger/v1/swagger.json - -
+2023-12-09 12:38:41.439 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7166/swagger/favicon-32x32.png - -
+2023-12-09 12:38:41.444 +05:00 [INF] Sending file. Request path: '/favicon-32x32.png'. Physical path: 'N/A'
+2023-12-09 12:38:41.450 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7166/swagger/favicon-32x32.png - - - 200 628 image/png 11.6422ms
+2023-12-09 12:38:41.650 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7166/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 242.6610ms
+2023-12-09 12:39:04.854 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7166/swagger/index.html - -
+2023-12-09 12:39:04.901 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7166/swagger/index.html - - - 200 - text/html;charset=utf-8 47.1001ms
+2023-12-09 12:39:04.931 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7166/_framework/aspnetcore-browser-refresh.js - -
+2023-12-09 12:39:04.931 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7166/_vs/browserLink - -
+2023-12-09 12:39:04.936 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7166/_framework/aspnetcore-browser-refresh.js - - - 200 12378 application/javascript;+charset=utf-8 5.5468ms
+2023-12-09 12:39:04.960 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7166/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 29.3780ms
+2023-12-09 12:39:05.066 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7166/swagger/v1/swagger.json - -
+2023-12-09 12:39:05.072 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7166/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 6.4899ms
+2023-12-09 12:39:11.602 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7166/WeatherForecast - -
+2023-12-09 12:39:11.626 +05:00 [INF] Executing endpoint 'WebApiConsoleFileSeqLog.Controllers.WeatherForecastController.Get (WebApiConsoleFileSeqLog)'
+2023-12-09 12:39:11.711 +05:00 [INF] Route matched with {action = "Get", controller = "WeatherForecast"}. Executing controller action with signature System.Collections.Generic.IEnumerable`1[WebApiConsoleFileSeqLog.WeatherForecast] Get() on controller WebApiConsoleFileSeqLog.Controllers.WeatherForecastController (WebApiConsoleFileSeqLog).
+2023-12-09 12:39:11.725 +05:00 [INF] Hello this is information logging using serilog
+2023-12-09 12:39:11.758 +05:00 [INF] Executing ObjectResult, writing value of type 'WebApiConsoleFileSeqLog.WeatherForecast[]'.
+2023-12-09 12:39:11.825 +05:00 [INF] Executed action WebApiConsoleFileSeqLog.Controllers.WeatherForecastController.Get (WebApiConsoleFileSeqLog) in 95.3372ms
+2023-12-09 12:39:11.839 +05:00 [INF] Executed endpoint 'WebApiConsoleFileSeqLog.Controllers.WeatherForecastController.Get (WebApiConsoleFileSeqLog)'
+2023-12-09 12:39:11.844 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7166/WeatherForecast - - - 200 - application/json;+charset=utf-8 242.2701ms
